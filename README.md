@@ -4,6 +4,8 @@
 
 # go-gilt
 
+> This is a 100% fork of https://github.com/retr0h/go-gilt - just supporting branch names in version schemas.
+
 Gilt is a tool which aims to make repo management, manageable.  Gilt
 clones repositories at a particular version, then overlays the repository to
 the provided destination.  An alternate approach to "vendoring".
