@@ -34,7 +34,7 @@ const configSchema = `
       },
       "version": {
         "type": "string",
-        "pattern": "^[0-9a-f]{5,40}$"
+        "pattern": "^[0-9a-z]{5,40}$"
       },
       "dstDir": {
         "type": "string"
