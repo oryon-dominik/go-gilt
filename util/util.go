@@ -31,7 +31,7 @@ import (
 	"strings"
 
 	"github.com/logrusorgru/aurora"
-	"github.com/retr0h/go-gilt/copy"
+	"github.com/oryon-dominik/go-gilt/copy"
 )
 
 var (

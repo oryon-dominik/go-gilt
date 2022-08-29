@@ -1,4 +1,4 @@
-module github.com/retr0h/go-gilt
+module github.com/oryon-dominik/go-gilt
 
 require (
 	github.com/davecgh/go-spew v1.1.0

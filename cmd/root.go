@@ -54,7 +54,7 @@ var rootCmd = &cobra.Command{
 
 A GIT layering command line tool.
 
-https://github.com/retr0h/go-gilt
+https://github.com/oryon-dominik/go-gilt
 `,
 }
 

@@ -28,7 +28,7 @@ import (
 	"strings"
 
 	"github.com/logrusorgru/aurora"
-	"github.com/retr0h/go-gilt/util"
+	"github.com/oryon-dominik/go-gilt/util"
 )
 
 var (

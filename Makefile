@@ -59,8 +59,8 @@ clean:
 build: clean
 	@echo "+ $@"
 	@docker run --rm -it \
-		-v $(CURDIR):/gopath/src/github.com/retr0h/go-gilt \
-		-w /gopath/src/github.com/retr0h/go-gilt \
+		-v $(CURDIR):/gopath/src/github.com/oryon-dominik/go-gilt \
+		-w /gopath/src/github.com/oryon-dominik/go-gilt \
 		tcnksm/gox:1.10.3 \
 		gox \
 			-ldflags="$(LDFLAGS)" \

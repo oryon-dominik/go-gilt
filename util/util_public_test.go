@@ -28,7 +28,7 @@ import (
 	"testing"
 
 	capturer "github.com/kami-zh/go-capturer"
-	"github.com/retr0h/go-gilt/util"
+	"github.com/oryon-dominik/go-gilt/util"
 	"github.com/stretchr/testify/assert"
 )
 

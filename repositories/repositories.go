@@ -29,8 +29,8 @@ import (
 	"strings"
 
 	"github.com/ghodss/yaml"
-	"github.com/retr0h/go-gilt/git"
-	"github.com/retr0h/go-gilt/repository"
+	"github.com/oryon-dominik/go-gilt/git"
+	"github.com/oryon-dominik/go-gilt/repository"
 	"github.com/xeipuuv/gojsonschema"
 )
 

@@ -24,7 +24,7 @@ package repositories_test
 import (
 	"fmt"
 
-	"github.com/retr0h/go-gilt/test/testutil"
+	"github.com/oryon-dominik/go-gilt/test/testutil"
 	"github.com/stretchr/testify/assert"
 )
 

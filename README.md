@@ -1,6 +1,6 @@
 [![Build Status](http://img.shields.io/travis/retr0h/go-gilt.svg?style=flat-square)](https://travis-ci.org/retr0h/go-gilt)
 [![Coveralls github](https://img.shields.io/coveralls/github/retr0h/go-gilt.svg?style=flat-square)](https://coveralls.io/github/retr0h/go-gilt)
-[![Go Report Card](https://goreportcard.com/badge/github.com/retr0h/go-gilt?style=flat-square)](https://goreportcard.com/report/github.com/retr0h/go-gilt)
+[![Go Report Card](https://goreportcard.com/badge/github.com/oryon-dominik/go-gilt?style=flat-square)](https://goreportcard.com/report/github.com/oryon-dominik/go-gilt)
 
 # go-gilt
 
@@ -26,7 +26,7 @@ wishes to use locking, [flock(1)](https://linux.die.net/man/1/flock) should be u
 
 ## Installation
 
-    $  go get github.com/retr0h/go-gilt
+    $  go get github.com/oryon-dominik/go-gilt
 
 ## Usage
 
